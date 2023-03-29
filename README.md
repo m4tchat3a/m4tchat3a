@@ -1,5 +1,5 @@
 - he / she
-- currently learning JS and HTML
+- currently learning HTML, CSS, JavaScript, PHP, Kotlin and C#
 - working on a disc bot!
 
 <!---
