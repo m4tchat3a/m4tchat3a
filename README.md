@@ -2,8 +2,17 @@
 - currently learning HTML, CSS, JavaScript, PHP, Kotlin and C#
 - working on a website!
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/m4tcht3a">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4tchat3a&show_icons=true&theme=dracula)](https://github.com/m4tchat3a/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a&theme=dracula)](https://github.com/m4tchat3a/github-readme-stats"/>
+</div>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4tchat3a&show_icons=true&theme=dracula)](https://github.com/m4tchat3a/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a)](https://github.com/m4tchat3a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a&theme=dracula)](https://github.com/m4tchat3a/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
