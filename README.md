@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/m4tcht3a">
+  <a href="https://github.com/m4tchat3a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4tchat3a&theme=cobalt&show_icons=true)](https://github.com/m4tchat3a/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a&theme=cobalt&layout=compact&langs_count=7)](https://github.com/m4tchat3a/github-readme-stats"/>
 </div>
@@ -23,7 +23,7 @@
  
 <div> 
   <a href="https://br.linkedin.com/in/luanda-catarina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "luandacaureliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: luandacaureliano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
