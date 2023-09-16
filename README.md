@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/m4tchat3a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4tchat3a&theme=cobalt&show_icons=true)](https://github.com/m4tchat3a/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a&theme=cobalt&layout=compact&langs_count=7)](https://github.com/m4tchat3a/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchat3a&theme=cobalt&layout=compact&langs_count=7"/>
 </div>
   
 <div style="display: inline_block"><br>
